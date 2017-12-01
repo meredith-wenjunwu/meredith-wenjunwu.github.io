@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Introducing Hyde
+title: About Me
 ---
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+I am a first year Ph.D student in Biomedical Informatics, advised by Linda Shapiro at University of Washington. My research interest is computer vision and machine/deep learning and their applications to medical image analysis. 
 
-### Built on Poole
+
+<!-- Original Content -->
+<!-- ### Built on Poole
 
 Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
 
@@ -35,3 +37,4 @@ Hyde is by preference a forward-thinking project. In addition to the latest vers
 Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
 
 Thanks!
+ -->
