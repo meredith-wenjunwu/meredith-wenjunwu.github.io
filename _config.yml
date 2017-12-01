@@ -1,1 +1,19 @@
-theme: jekyll-theme-minimal
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            Meredith(Wenjun) Wu
+baseurl:          /
+
+author:
+  name:           'Meredith(Wenjun) Wu'
+  url:            https://meredith-wenjunwu.github.io
+
+paginate:         5
+
+
