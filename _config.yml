@@ -8,7 +8,7 @@ highlighter:      pygments
 
 # Setup
 title:            Meredith (Wenjun) Wu
-baseurl:          https://meredith-wenjunwu.github.io
+baseurl:          /
 
 author:
   name:           'Meredith(Wenjun) Wu'
