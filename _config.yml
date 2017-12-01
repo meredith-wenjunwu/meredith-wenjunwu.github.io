@@ -3,16 +3,16 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
+# permalink:        pretty
 #relative_permalinks: true
 
 # Setup
 title:            Meredith (Wenjun) Wu
-baseurl:          /
+# baseurl:          /
 
 author:
   name:           'Meredith(Wenjun) Wu'
-  url:            https://meredith-wenjunwu.github.io
+  # url:            https://meredith-wenjunwu.github.io
 
 paginate:         5
 
