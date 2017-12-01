@@ -12,7 +12,7 @@ baseurl:          /
 
 author:
   name:           'Meredith(Wenjun) Wu'
-  # url:            https://meredith-wenjunwu.github.io
+  url:            https://meredith-wenjunwu.github.io
 
 paginate:         5
 
