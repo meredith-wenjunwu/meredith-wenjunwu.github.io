@@ -3,7 +3,7 @@ layout: post
 title: About Me
 ---
 
-I am a first year Ph.D student in Biomedical Informatics, advised by Linda Shapiro at University of Washington. My research interest is computer vision and machine/deep learning and their applications to medical image analysis. 
+I am a first year Ph.D student in Biomedical Informatics, advised by Linda Shapiro at University of Washington. My research interests are medical image analysis, computer vision and machine learning. 
 
 
 <!-- Original Content -->
