@@ -297,9 +297,14 @@ tag_archive:
 #     tag: /tags/:name/
 
 
+<<<<<<< HEAD
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
     envs: development
+=======
+
+theme: jekyll-theme-minimal
+>>>>>>> origin/master

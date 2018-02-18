@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/portfolio/portfolio-1/</loc>
-<lastmod>2018-02-18T02:27:44-08:00</lastmod>
+<lastmod>2018-02-18T02:31:52-08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/portfolio/portfolio-2/</loc>
-<lastmod>2018-02-18T02:27:44-08:00</lastmod>
+<lastmod>2018-02-18T02:31:52-08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/posts/2012/08/blog-post-1/</loc>
@@ -112,14 +112,14 @@
 </url>
 <url>
 <loc>http://localhost:4000/files/Poster_UROP.pdf</loc>
-<lastmod>2018-02-18T01:45:37-08:00</lastmod>
+<lastmod>2018-02-18T02:31:47-08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/Wenjun%20Wu_EMBC.pdf</loc>
-<lastmod>2018-02-18T01:41:43-08:00</lastmod>
+<lastmod>2018-02-18T02:31:47-08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/talkmap/map.html</loc>
-<lastmod>2017-07-26T12:54:08-07:00</lastmod>
+<lastmod>2018-02-18T02:31:47-08:00</lastmod>
 </url>
 </urlset>
