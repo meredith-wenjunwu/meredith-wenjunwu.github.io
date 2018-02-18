@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Meredith (Wenjun) Wu"
+title                    : "Wenjun(Meredith) Wu"
 title_separator          : "-"
-name                     : &name "Meredith (Wenjun) Wu"
+name                     : &name "Wenjun(Meredith) Wu"
 description              : &description "Ph.D student at University of Washington"
 url                      : https://meredith-wenjunwu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Meredith (Wenjun) Wu"
+  name             : "Wenjun(Meredith) Wu"
   avatar           : "profile.png"
-  bio              : "a first year Ph.D student in Biomedical Informatics, advised by Linda Shapiro at University of Washington"
+  bio              : "A first year Ph.D student in Biomedical Informatics, advised by Linda Shapiro at University of Washington"
   location         : "Seattle, Washington"
   employer         :
   googlescholar    :
