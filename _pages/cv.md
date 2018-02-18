@@ -20,11 +20,10 @@ Education
   - B.S. in Biomedical Engineering (**cum laude**)
   - Minor in Computing and Intelligence
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+# Publications
+
+- <span style="color:blue">**[11C-PIB PET Image Analysis for Automated Alzheimer’s Diagnosis Using Weighted Voting Ensembles](http://ieeexplore.ieee.org/abstract/document/8037712/)**</span><br/> **Wenjun Wu**, Janani Venugopalan, May D. Wang.<br/> *Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2017.*
+- <span style="color:blue">**[The Advantages of Viscous Dissipation Rate over Simplified Power Loss as a Fontan Hemodynamic Metric](https://link.springer.com/article/10.1007/s10439-017-1950-1)**</span><br/> Zhenglun Alan Wei, Michael Tree, Phillip M Trusty, Wenjun Wu, Shelly Singh-Gryzbon, Ajit Yoganathan <br/> *Annals of biomedical engineering (2017): 1-13.*
 
 # Research Experience
 
