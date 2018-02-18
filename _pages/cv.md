@@ -9,8 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+### \[ [<span style="color:blue">PDF Version</span>]() \]
+
 Education
 ======
+
 * **University of Washington, 2021 (expected)** 
   - Ph.D in Biomedical Informatics
 * **Georgia Institute of Technology,  2017**
