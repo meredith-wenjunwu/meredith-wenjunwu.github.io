@@ -27,12 +27,12 @@ Education
 
 # Research Experience
 
-- [<span style="color:blue">UW Graphics and Imaging Laboratory</span>](http://grail.cs.washington.edu/)  <br/>Advisor: Linda Shapiro*
-  - Detecting cellular-level entities (e.g. [<span style="color:blue">Nuclei</span>](/files/nuclei-detection.pdf), [<span style="color:blue">melanocytes</span>](/files/Melanocyte.pdf) and etc.) and structural entities (e.g. mid-level features like melanocyte bridges, etc.) in digitized whole slide images of melanocytic skin lesions. 
+- \[Sept 2017--Current\]  [<span style="color:blue">UW Graphics and Imaging Laboratory</span>](http://grail.cs.washington.edu/), UW<br/>Advisor: Linda Shapiro*
+  - Detecting cellular-level entities (e.g. [<span style="color:blue">nuclei</span>](/files/nuclei-detection.pdf), [<span style="color:blue">melanocytes</span>](/files/Melanocyte.pdf) and etc.) and structural entities (e.g. mid-level features like melanocyte bridges, etc.) in digitized whole slide images of melanocytic skin lesions. 
   - Developing an automated diagnosis system that can classify digitized slide images into one of five possible diagnostic classes.
 - [<span style="color:blue">The Bio-Medical Informatics and Bio-Imaging Laboratory</span>](https://miblab.bme.gatech.edu/), Georgia Tech <br/>Advisor: May Wang*
   - Extracted 3D image features from processed PET images; applied weighted and unweighted voting ensembles of baseline classifiers to classify PET images into categories that correspond to diagnosis of Alzheimer’s disease. **The paper was accepted to *EMBC 2017*.**
-- [<span style="color:blue">The Cardiovascular Fluid Mechanics Lab (CFM Lab)</span>](https://miblab.bme.gatech.edu/), Georgia Tech <br/>Advisor: Zhenglun Wei and Ajit Yoganathan*
+- [<span style="color:blue">The Cardiovascular Fluid Mechanics Lab (CFM Lab)</span>](https://miblab.bme.gatech.edu/), Georgia Tech <br/>Advisor: Zhenglun Wei and Ajit Yoganathan
   - Performed computational fluid dynamics simulations using ANSYS Fluent *(ANSYS, PA)* on pre-surgery and post-surgery patient under both time-averaged and pulsatile boundary conditions; evaluated flow efficiency using simplified power loss or a viscous dissipation rate metric. **The paper was accepted to *Annals of Biomedical Engineering*.**
 
 # Teaching Experience
