@@ -22,10 +22,10 @@ Education
 
 # Publications
 
-- <span style="color:blue">**[11C-PIB PET Image Analysis for Automated Alzheimer’s Diagnosis Using Weighted Voting Ensembles](http://ieeexplore.ieee.org/abstract/document/8037712/)**</span><br/> **Wenjun Wu**, Janani Venugopalan, May D. Wang.<br/> *Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2017.*
+- <span style="color:blue">**[11C-PIB PET Image Analysis for Automated Alzheimer’s Diagnosis Using Weighted Voting Ensembles](http://ieeexplore.ieee.org/abstract/document/8037712/)**</span><br/> **Wenjun Wu**, Janani Venugopalan, May D. Wang.<br/> *Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2017.*   \[[<span style="color:blue">Slides</span>](/files/EMBC.pdf)\]
 - <span style="color:blue">**[The Advantages of Viscous Dissipation Rate over Simplified Power Loss as a Fontan Hemodynamic Metric](https://link.springer.com/article/10.1007/s10439-017-1950-1)**</span><br/> Zhenglun Alan Wei, Michael Tree, Phillip M Trusty, Wenjun Wu, Shelly Singh-Gryzbon, Ajit Yoganathan <br/> *Annals of biomedical engineering (2017): 1-13.*
 
-# Publications
+# Presentations
 
 **Study of Chronic Change of Hepatic Blood Flow Distribution of Fontan Patients**<br/> *Undergraduate Research Symposium at Georgia Tech, Atlanta, GA, April 2016.*<br/>  \[[<span style="color:blue">Slides</span>](/files/Poster_UROP.pdf)\]
 
