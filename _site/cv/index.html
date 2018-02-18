@@ -137,9 +137,6 @@
             <li class="masthead__menu-item"><a href="http://localhost:4000/publications/">Publications</a></li>
           
             
-            <li class="masthead__menu-item"><a href="http://localhost:4000/presentations/">Posters and Presentations</a></li>
-          
-            
             <li class="masthead__menu-item"><a href="http://localhost:4000/cv/">CV</a></li>
           
         </ul>
@@ -213,9 +210,9 @@
       
       
       
-      
+      <!-- 
         <li><a href="http://orcid.org/yourorcidurl"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> ORCID</a></li>
-      
+       -->
       
     </ul>
   </div>
@@ -264,7 +261,7 @@
       
     </h3>
     
-    <p class="archive__item-excerpt" itemprop="description">Wu, W. (2017). "11C-PIB PET Image Analysis for Automated Alzheimer’s Diagnosis Using Weighted Voting Ensembles" <i>EMBC 2017</i>.</p> 
+    <p class="archive__item-excerpt" itemprop="description">Wu, W. (2017). "11C-PIB PET Image Analysis for Automated Alzheimer’s Diagnosis Using Weighted Voting Ensembles." <i>EMBC 2017</i>.</p> 
     </li>
  </article>
 </div>
@@ -297,31 +294,20 @@
 <h1 id="research-experience">Research Experience</h1>
 
 <ul>
-  <li>
-    <p><a href="http://grail.cs.washington.edu/">UW Graphics and Imaging Laboratory</a></p>
-
-    <p><em>Advisor: Linda Shapiro</em></p>
-
+  <li><a href="http://grail.cs.washington.edu/"><span style="color:blue">UW Graphics and Imaging Laboratory</span></a>  <br />Advisor: Linda Shapiro*
     <ul>
-      <li>Detecting cellular-level entities in digitized whole slide images of melanocytic skin lesions.</li>
+      <li>Detecting cellular-level entities (e.g. <a href="/files/nuclei-detection.pdf"><span style="color:blue">Nuclei</span></a>, <a href="/files/Melanocyte.pdf"><span style="color:blue">melanocytes</span></a> and etc.) and structural entities (e.g. mid-level features like melanocyte bridges, etc.) in digitized whole slide images of melanocytic skin lesions.</li>
+      <li>Developing an automated diagnosis system that can classify digitized slide images into one of five possible diagnostic classes.</li>
     </ul>
   </li>
-  <li>
-    <p><a href="https://miblab.bme.gatech.edu/">The Cardiovascular Fluid Mechanics Lab (CFM Lab)</a>, Georgia Tech</p>
-
-    <p><em>Advisor: May Wang</em></p>
-
+  <li><a href="https://miblab.bme.gatech.edu/"><span style="color:blue">The Bio-Medical Informatics and Bio-Imaging Laboratory</span></a>, Georgia Tech <br />Advisor: May Wang*
     <ul>
-      <li>Extracted 3D image features, such as voxel intensities, volume and textures, from processed PET images; applied weighted and unweighted voting ensembles of baseline classifiers, such as support vector machine and random forest, to classify PET images into categories that correspond to diagnosis of Alzheimer’s disease. <strong>The paper was accepted to <em>EMBC 2017</em>.</strong></li>
+      <li>Extracted 3D image features from processed PET images; applied weighted and unweighted voting ensembles of baseline classifiers to classify PET images into categories that correspond to diagnosis of Alzheimer’s disease. <strong>The paper was accepted to <em>EMBC 2017</em>.</strong></li>
     </ul>
   </li>
-  <li>
-    <p><a href="https://miblab.bme.gatech.edu/">The Bio-Medical Informatics and Bio-Imaging Laboratory (Bio-MIB Lab)</a>, Georgia Tech</p>
-
-    <p><em>Advisor: Zhenglun Wei and Ajit Yoganathan</em></p>
-
+  <li><a href="https://miblab.bme.gatech.edu/"><span style="color:blue">The Cardiovascular Fluid Mechanics Lab (CFM Lab)</span></a>, Georgia Tech <br />Advisor: Zhenglun Wei and Ajit Yoganathan*
     <ul>
-      <li>Performed computational fluid dynamics simulations using ANSYS Fluent (ANSYS, PA) on pre-surgery and post-surgery patient under both time-averaged and pulsatile boundary conditions; evaluated flow efficiency using simplified power loss or a viscous dissipation rate metric. <strong>The paper was accepted to <em>Annals of Biomedical Engineering</em>.</strong></li>
+      <li>Performed computational fluid dynamics simulations using ANSYS Fluent <em>(ANSYS, PA)</em> on pre-surgery and post-surgery patient under both time-averaged and pulsatile boundary conditions; evaluated flow efficiency using simplified power loss or a viscous dissipation rate metric. <strong>The paper was accepted to <em>Annals of Biomedical Engineering</em>.</strong></li>
     </ul>
   </li>
 </ul>
@@ -333,26 +319,26 @@
   <li><strong>(Current) Teaching Assistant,</strong> <a href="https://courses.cs.washington.edu/courses/cse373/18wi/"><em>Data Sturctures and Algorithms</em>. Instructor: Michael Lee.</a></li>
 </ul>
 
-<h1 id="honors">Honors</h1>
+<h1 id="previous-projects">Previous Projects</h1>
+
 <ul>
-  <li>Georgia Tech Faculty Honors					<em>2014, 2016</em></li>
-  <li>Georgia Tech Dean’s list						<em>2014, 2015, 2015</em></li>
-  <li>Georgia Tech President’s Undergraduate Research Program Salary Award	<em>2017</em></li>
+  <li><strong>AirTech - iOS application for lung function monitoring</strong>                    [ Jan 2017 - May 2017]<br /> Developed a lung function monitoring device for chronic lung disease patients that quantifies air flow rate and exhaled gas components, conducts test validity check, and automatically records test results to compatible iOS application.<br />[ <a href="https://github.com/meredith-wenjunwu/AirTech-Final"><span style="color:blue">Code</span></a> ]                    [<a href="https://www.youtube.com/watch?v=uy7s0ZQS1aQ"><span style="color:blue">Demo</span></a>]</li>
+  <li><strong>Cancer Stage Diagnosis using Biomedical Image processing</strong>            [ Jan 2016 - May 2016]<br />Developed supervised and unsupervised segmentation of cellular structures using classification algorithms; extracted various types of features and adopted multiple dimensionality reduction methods; used extracted features to build various classifiers for diagnosing cancer stage from breast biopsy histological images and achieved F1 score of about 0.9. <br /> [<a href="https://youtu.be/m85OWh-0uZM"><span style="color:blue">Demo</span></a>]</li>
+  <li><strong>Robotics</strong>                                                                                                             [ Jan 2016 - May 2016]<br /> Programmed a scribbler robot to perform task in image processing (exploration of surrounding areas using image stitching) and in navigation (obstacle identification, path planning and robot localization).</li>
+  <li><strong>PTT Advisor+</strong>                                                                                                      [May 2016- Sept 2016]<br /> Collaborated with CDC (Centers for Disease Control and Prevention) and administered the implementation and design of iOS mobile app to provide guidance for physicians to prescribe anticoagulant drug and test. <br /> [<a href="https://itunes.apple.com/us/app/ptt-advisor/id537989131?mt=8"><span style="color:blue">App Store link</span></a>]</li>
+</ul>
+
+<h1 id="honors">Honors</h1>
+
+<ul>
+  <li>Georgia Tech Faculty Honors (<em>2014, 2016</em>)</li>
+  <li>Georgia Tech Dean’s list (<em>2014, 2015</em>, 2017)</li>
+  <li>Georgia Tech President’s Undergraduate Research Program Salary Award (<em>2017</em>)</li>
 </ul>
 
 <h1 id="skills">Skills</h1>
 
-<ul>
-  <li>Skill 1</li>
-  <li>Skill 2
-    <ul>
-      <li>Sub-skill 2.1</li>
-      <li>Sub-skill 2.2</li>
-      <li>Sub-skill 2.3</li>
-    </ul>
-  </li>
-  <li>Skill 3</li>
-</ul>
+<p><strong>Software/Tools:</strong> BrainSuite, SPM12 Toolbox, Free Surfer, FSL, xcode, ANSYS Workbench Fluent, LABVIEW, Solidworks, STAR CCM+, Paraview, SPSS, Excel, Microsoft Suite <br /><strong>Programming:</strong> Python, C/C++,  Java, MATLAB, R<br /><strong>Engineering:</strong> Signal Processing, Image Processing (MRI, PET and Histopathology Images), Statistics, Fluid mechanics,</p>
 
   </div>
 </div>
@@ -363,12 +349,12 @@
     <div class="page__footer">
       <footer>
         <!-- start custom footer snippets -->
-<a href="/sitemap/">Sitemap</a>
+<!-- <a href="/sitemap/">Sitemap</a> -->
 <!-- end custom footer snippets -->
 
         
 
-<div class="page__footer-follow">
+<!-- <div class="page__footer-follow">
   <ul class="social-icons">
     
       <li><strong>Follow:</strong></li>
@@ -381,9 +367,9 @@
     
     <li><a href="http://localhost:4000/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
-</div>
+</div> -->
 
-<div class="page__footer-copyright">&copy; 2018 Meredith (Wenjun) Wu. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2018 Meredith (Wenjun) Wu. <!-- Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div> -->
 
       </footer>
     </div>
