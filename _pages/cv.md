@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### \[ [<span style="color:blue">View PDF</span>]() \]
+### \[ [<span style="color:blue">View PDF</span>](\files\curriculum-vitae.pdf) \]
 
 Education
 ======
