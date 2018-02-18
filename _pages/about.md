@@ -12,7 +12,7 @@ I am a first year Ph.D student in [Biomedical Informatics](http://bime.uw.edu/),
 
 Before coming to UW, I studied Biomedical Engineering at Georgia Institute of Technology. I worked as undergraduate research assisstant at [Bio-MIB Lab](https://miblab.bme.gatech.edu/) and [CFM Lab](https://miblab.bme.gatech.edu/). 
 
-I can be best reached at [wenjunw@uw.edu](mailto: wenjunw@uw.edu). 
+You can reach me at [wenjunw@uw.edu](mailto: wenjunw@uw.edu). 
 
 ## Research Interest
 
