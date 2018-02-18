@@ -18,5 +18,5 @@ I can be reached at [wenjunw@uw.edu](mailto: wenjunw@uw.edu).
 
 My research interests are medical image analysis and computing. 
 
-Currently, I am working on Diagnosis of melanocytic lesions using whole-slide skin biopsy images. 
+Currently, I am working on diagnosis of melanocytic lesions using whole-slide skin biopsy images. 
 
