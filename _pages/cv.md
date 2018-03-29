@@ -32,7 +32,7 @@ Education
 # Research Experience
 
 - \[Sept 2017--Current\]  [<span style="color:blue">UW Graphics and Imaging Laboratory</span>](http://grail.cs.washington.edu/), UW<br/>Advisor: Linda Shapiro
-  - Using CNN and Adaboost classifier to detect cellular-level entities (e.g. [<span style="color:blue">nuclei</span>](/files/nuclei-detection.pdf), [<span style="color:blue">melanocytes</span>](/files/Melanocyte.pdf) and etc.) and structural entities (e.g. mid-level features like melanocyte bridges, etc.) in digitized whole slide images of melanocytic skin lesions. 
+  - Used CNN and Adaboost classifier to detect cellular-level entities (e.g. [<span style="color:blue">nuclei</span>](/files/nuclei-detection.pdf), [<span style="color:blue">melanocytes</span>](/files/melanocyte-detection-skin.pdf) and etc.) and structural entities (e.g. mid-level features like melanocyte bridges, etc.) in digitized whole slide images of melanocytic skin lesions. 
   - Developing an automated diagnosis system from structural and cellular-level entities that can classify digitized slide images into one of five possible diagnostic classes: atypical lesions; melanoma in situ; invasive melanoma stage T1a; and invasive melanoma stage $\geq$T1b.
 - [<span style="color:blue">The Bio-Medical Informatics and Bio-Imaging Laboratory</span>](https://miblab.bme.gatech.edu/), Georgia Tech <br/>Advisor: May Wang
   - Extracted 3D image features from processed PET images; applied weighted and unweighted voting ensembles of baseline classifiers to classify PET images into categories that correspond to diagnosis of Alzheimer’s disease. **The paper was accepted to *EMBC 2017*.**
