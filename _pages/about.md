@@ -18,5 +18,5 @@ I can be reached at [wenjunw@uw.edu](mailto: wenjunw@uw.edu).
 
 My research interests are medical image analysis and computing. 
 
-Currently, I am working on [ISIC data challenge](Skin Lesion Analysis Towards Melanoma Detection) and diagnosis of melanocytic lesions using whole-slide skin biopsy images. 
+Currently, I am working on [ISIC data challenge](https://challenge2018.isic-archive.com/task3/) and diagnosis of melanocytic lesions using whole-slide skin biopsy images. 
 
