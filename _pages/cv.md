@@ -40,6 +40,12 @@ Education
 - [<span style="color:blue">The Cardiovascular Fluid Mechanics Lab (CFM Lab)</span>](https://miblab.bme.gatech.edu/), Georgia Tech <br/>Advisor: Zhenglun Wei and Ajit Yoganathan
   - Performed computational fluid dynamics simulations using ANSYS Fluent *(ANSYS, PA)* on pre-surgery and post-surgery patient under both time-averaged and pulsatile boundary conditions; evaluated flow efficiency using simplified power loss or a viscous dissipation rate metric. **The paper was accepted to *Annals of Biomedical Engineering*.**
 
+# Internship
+
+- **Siemens Corporate Research**, Graduate Research Intern				[June 2018 - Sept 2018]<br/>
+
+  Applied reinforcement learning to automate manufacturing process.
+
 # Teaching Experience
 
 - Teaching Assistant, [*Data Sturctures and Algorithms*. Instructor: Evan McCarty.](https://courses.cs.washington.edu/courses/cse373/17au/)
