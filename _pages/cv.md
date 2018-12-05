@@ -25,10 +25,6 @@ Education
 - <span style="color:blue">**[11C-PIB PET Image Analysis for Automated Alzheimer’s Diagnosis Using Weighted Voting Ensembles](http://ieeexplore.ieee.org/abstract/document/8037712/)**</span><br/> **Wenjun Wu**, Janani Venugopalan, May D. Wang.<br/> *Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2017.*   \[[<span style="color:blue">Slides</span>](/files/EMBC.pdf)\]
 - <span style="color:blue">**[The Advantages of Viscous Dissipation Rate over Simplified Power Loss as a Fontan Hemodynamic Metric](https://link.springer.com/article/10.1007/s10439-017-1950-1)**</span><br/> Zhenglun Alan Wei, Michael Tree, Phillip M Trusty, Wenjun Wu, Shelly Singh-Gryzbon, Ajit Yoganathan <br/> *Annals of biomedical engineering (2017): 1-13.*
 
-# Presentations
-
-**Study of Chronic Change of Hepatic Blood Flow Distribution of Fontan Patients**<br/> *Undergraduate Research Symposium at Georgia Tech, Atlanta, GA, April 2016.*<br/>  \[[<span style="color:blue">Slides</span>](/files/Poster_UROP.pdf)\]
-
 # Research Experience
 
 - \[Sept 2017--Current\]  [<span style="color:blue">UW Graphics and Imaging Laboratory</span>](http://grail.cs.washington.edu/), UW<br/>Advisor: Linda Shapiro
@@ -58,13 +54,6 @@ Education
 - **Cancer Stage Diagnosis using Biomedical Image processing**            \[ Jan 2016 - May 2016\]<br/>Developed supervised and unsupervised segmentation of cellular structures using classification algorithms; extracted various types of features and adopted multiple dimensionality reduction methods; used extracted features to build various classifiers for diagnosing cancer stage from breast biopsy histological images and achieved F1 score of about 0.9. <br/> \[[<span style="color:blue">Demo</span>](https://youtu.be/m85OWh-0uZM)\]
 - **Robotics**                                                                                                             \[ Jan 2016 - May 2016\]<br/> Programmed a scribbler robot to perform task in image processing (exploration of surrounding areas using image stitching) and in navigation (obstacle identification, path planning and robot localization).
 - **PTT Advisor+**                                                                                                     \[May 2016 - Sept 2016\]<br/> Collaborated with CDC (Centers for Disease Control and Prevention) and administered the implementation and design of iOS mobile app to provide guidance for physicians to prescribe anticoagulant drug and test. <br/> \[[<span style="color:blue">App Store link</span>](https://itunes.apple.com/us/app/ptt-advisor/id537989131?mt=8)\]
-
-Honors
-======
-
-- Georgia Tech Faculty Honors (*2014, 2016*)
-- Georgia Tech Dean’s list (*2014, 2015*, 2017)
-- Georgia Tech President’s Undergraduate Research Program Salary Award (*2017*)
 
 # Skills
 
