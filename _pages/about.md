@@ -16,9 +16,8 @@ I can be reached at [wenjunw [at] cs.washington.edu](mailto: wenjunw@uw.edu).
 
 
 
-## Research Interest \[[<span style="color:blue">CV</span>](/files/CV.pdf)\]
+## Research Interest
 
 My research interests lie at the intersection of **biomedical image analysis, machine learning, and computer vision**, especially in designing **interpretable tools and architectures** that have potential in real-world clinical applications. 
 
 I'm currently working on an attention-based multi-task architecture for whole-slide skin biopsy diagnosis and segmentation.
-
