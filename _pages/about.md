@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D student in [Biomedical Informatics](http://bime.uw.edu/), advised by [Linda Shapiro](https://homes.cs.washington.edu/~shapiro/) at University of Washington (UW). 
+I am a second year Ph.D student in [Biomedical Informatics](http://bime.uw.edu/), advised by [Linda Shapiro](https://homes.cs.washington.edu/~shapiro/) at University of Washington (UW). 
 
 Before coming to UW, I studied Biomedical Engineering at Georgia Institute of Technology. I worked as undergraduate research assisstant at [Bio-MIB Lab](https://miblab.bme.gatech.edu/) and [CFM Lab](https://miblab.bme.gatech.edu/). 
 
-I can be reached at [wenjunw@uw.edu](mailto: wenjunw@uw.edu). 
+I can be reached at [wenjunw [at] cs.washington.edu](mailto: wenjunw@uw.edu). 
 
-## Research Interest
 
-My research interests are medical image analysis and computing. 
 
-Currently, I am working on [ISIC data challenge](https://challenge2018.isic-archive.com/task3/) and diagnosis of melanocytic lesions using whole-slide skin biopsy images. 
+## Research Interest \[[<span style="color:blue">CV</span>](/files/CV.pdf)\]
+
+My research interests lie at the intersection of **biomedical image analysis, machine learning, and computer vision**, especially in designing **interpretable tools and architectures** that have potential in real-world clinical applications. 
+
+I'm currently working on an attention-based multi-task architecture for whole-slide skin biopsy diagnosis and segmentation.
 
