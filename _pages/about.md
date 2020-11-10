@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D student in [Biomedical Informatics](http://bime.uw.edu/), advised by [Linda Shapiro](https://homes.cs.washington.edu/~shapiro/) at University of Washington (UW). 
+I am a fourth year Ph.D student in [Biomedical Informatics](http://bime.uw.edu/), advised by [Linda Shapiro](https://homes.cs.washington.edu/~shapiro/) at University of Washington (UW). 
 
 Before coming to UW, I studied Biomedical Engineering at Georgia Institute of Technology. I worked as undergraduate research assisstant at [Bio-MIB Lab](https://miblab.bme.gatech.edu/) and [CFM Lab](https://miblab.bme.gatech.edu/). 
 
