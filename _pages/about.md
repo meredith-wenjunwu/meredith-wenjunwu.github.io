@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Scientist at Meta, with a Ph.D. in Biomedical Informatics from the University of Washington. I had the privilege of being mentored by the esteemed [Linda Shapiro](https://homes.cs.washington.edu/~shapiro/) during my doctoral studies at [UW's Biomedical Informatics program](http://bime.uw.edu/).
+I am currently a Research Scientist at Meta, with a Ph.D. in Biomedical Informatics from the University of Washington, mentored by [Linda Shapiro](https://homes.cs.washington.edu/~shapiro/). 
 
 Before coming to UW, I studied Biomedical Engineering at Georgia Institute of Technology. I worked as undergraduate research assisstant at [Bio-MIB Lab](https://miblab.bme.gatech.edu/) and [CFM Lab](https://miblab.bme.gatech.edu/). 
 
