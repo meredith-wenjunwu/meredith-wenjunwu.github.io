@@ -20,4 +20,4 @@ I can be reached at [wuwenjun1995 [at] gmail.com](mailto: wuwenjun1995@gmail.com
 
 My research interests lie at the intersection of **biomedical image analysis, machine learning, and computer vision**, especially in designing **interpretable tools and architectures** that have potential in real-world clinical applications. 
 
-Check out our newest paper: Semantics-Aware Attention Guidance for Diagnosing Whole Slide Images [pdf](https://arxiv.org/abs/2404.10894)
+Check out our newest paper: Semantics-Aware Attention Guidance for Diagnosing Whole Slide Images [[pdf](https://arxiv.org/abs/2404.10894)]
