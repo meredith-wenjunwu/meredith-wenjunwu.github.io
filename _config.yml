@@ -80,11 +80,10 @@ analytics:
 author:
   name             : "Wenjun(Meredith) Wu"
   avatar           : "profile.png"
-  bio              : "A fourth year Ph.D student in Biomedical Informatics, advised by Linda Shapiro at University of Washington (UW)."
-  location         : "Seattle, Washington"
+  bio              : "Meta Research Scientist; Biomedical Informatics Ph.D. from UW"
   employer         :
-  googlescholar    :
-  email            : "wenjunw@uw.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=p0daKQ0AAAAJ&hl=en"
+  email            : "wuwenjun1995@gmail.com"
   CV               : "https://meredith-wenjunwu.github.io/files/CV.pdf"
   bitbucket        :
   codepen          :
